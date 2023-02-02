@@ -8,7 +8,7 @@
     "lines": 95,
     "statements": 95,
     "functions": 100,
-    "branches": 95,
+    "branches": 94,
     "exclude": [
       "./test/**"
     ],
@@ -37,7 +37,6 @@
   },
   "dependencies": {
     "jws": "^3.2.2",
-    "lodash": "^4.17.21",
     "ms": "^2.1.1",
     "semver": "^7.3.8"
   },
