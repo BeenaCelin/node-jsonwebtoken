@@ -1,6 +1,6 @@
 {
   "name": "jwt-shim",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Forked jsonwebtoken version (symmetric and asymmetric)",
   "main": "index.js",
   "nyc": {
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/auth0/node-jsonwebtoken"
+    "url": "https://github.com/BeenaCelin/node-jsonwebtoken"
   },
   "keywords": [
     "jwt"
@@ -33,7 +33,7 @@
   "author": "auth0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/auth0/node-jsonwebtoken/issues"
+    "url": "https://github.com/BeenaCelin/node-jsonwebtoken/issues"
   },
   "dependencies": {
     "jws": "^3.2.2",
