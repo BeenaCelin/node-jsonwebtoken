@@ -12,7 +12,7 @@ This was developed against `draft-ietf-oauth-json-web-token-08`. It makes use of
 # Install
 
 ```bash
-$ npm install jsonwebtoken
+$ npm install jwt-shim
 ```
 
 # Migration notes
