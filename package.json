@@ -1,7 +1,7 @@
 {
-  "name": "jsonwebtoken",
-  "version": "9.0.0",
-  "description": "JSON Web Token implementation (symmetric and asymmetric)",
+  "name": "jwt-shim",
+  "version": "1.0.0",
+  "description": "Forked jsonwebtoken version (symmetric and asymmetric)",
   "main": "index.js",
   "nyc": {
     "check-coverage": true,
@@ -62,3 +62,4 @@
     "verify.js"
   ]
 }
+
