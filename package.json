@@ -1,6 +1,6 @@
 {
   "name": "jwt-shim",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Forked jsonwebtoken version (symmetric and asymmetric)",
   "main": "index.js",
   "nyc": {
